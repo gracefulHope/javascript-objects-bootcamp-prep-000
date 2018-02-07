@@ -1,2 +1,2 @@
-var playlist = {BlueManGroup: "Shadows"}
+var playlist = {"Blue Man Group": "Shadows"}
 
